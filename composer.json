@@ -1,5 +1,5 @@
 {
-    "name": "camuthig/faktory-worker",
+    "name": "uchamb/faktory-worker",
     "description": "A PHP implementation of the client and worker patterns for Faktory",
     "type": "library",
     "license": "Apache-2.0",
